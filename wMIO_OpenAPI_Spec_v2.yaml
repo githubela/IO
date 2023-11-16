@@ -7,7 +7,7 @@ info:
 servers:
 - url: https://env527156.mycloud-eu-central-1.softwareag.cloud
 security:
-- basicAuth: [cmFqYXNla2FyYW5lbGFuZ28ucjk5QGdtYWlsLmNvbTpJbG92ZXBlcnNpc3RlbnRAMjQ=]
+- basicAuth: cmFqYXNla2FyYW5lbGFuZ28ucjk5QGdtYWlsLmNvbTpJbG92ZXBlcnNpc3RlbnRAMjQ=
 paths:
   /apis/v1/rest/projects:
     get:
