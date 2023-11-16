@@ -5,9 +5,9 @@ info:
   description: 'This is WMIO Open API   '
   version: 1.0.0
 servers:
-- url: https://awstag2003.stag-int-aws-us.webmethods.io
+- url: https://env527156.mycloud-eu-central-1.softwareag.cloud
 security:
-- basicAuth: []
+- basicAuth: [cmFqYXNla2FyYW5lbGFuZ28ucjk5QGdtYWlsLmNvbTpJbG92ZXBlcnNpc3RlbnRAMjQ=]
 paths:
   /apis/v1/rest/projects:
     get:
